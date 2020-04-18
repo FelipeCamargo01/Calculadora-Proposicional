@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1587231052 source:c:\users\llf36\onedrive\documentos\programas e arquivos Área de trabalho\trabalho matematica\trabalhomatematica\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<wchar.h>
+
